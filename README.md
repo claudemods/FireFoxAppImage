@@ -7,6 +7,3 @@ created from the latest Debian Package v128.6.0
 if you like what I'm doing and want to support me to improve, please consider donating.
 Buy me a 🍕🥧 https://www.paypal.com/paypalme/claudemods?country.x=GB&locale
 
-download
-https://www.pling.com/p/2194888/
-
